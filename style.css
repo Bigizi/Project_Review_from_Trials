@@ -1,0 +1,16 @@
+*,:after,:before{
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    background-color:green;
+}
+label{
+    font-weight: bolder;
+}
